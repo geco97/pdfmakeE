@@ -1,5 +1,5 @@
 {
-  "name": "custom-pdfmake-5",
+  "name": "pdfmakeE",
   "version": "0.2.2",
   "description": "Client/server side PDF printing in pure JavaScript",
   "main": "src/printer.js",
