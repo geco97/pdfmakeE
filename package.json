@@ -1,5 +1,5 @@
 {
-  "name": "pdfmakeE",
+  "name": "pdfmake-email-1",
   "version": "0.2.2",
   "description": "Client/server side PDF printing in pure JavaScript",
   "main": "src/printer.js",
